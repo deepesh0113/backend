@@ -7,3 +7,4 @@ seaborn==0.11.2
 werkzeug==2.0.1
 scikit-learn==0.24.2
 scipy==1.7.1
+pip>=25.1.1
